@@ -1,0 +1,1478 @@
+{
+  "10001":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-74"
+  },
+  "10002":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10003":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.73",
+    "longitude":"-73.99"
+  },
+  "10004":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.69",
+    "longitude":"-74.02"
+  },
+  "10005":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.01"
+  },
+  "10006":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.01"
+  },
+  "10007":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.01"
+  },
+  "10009":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.73",
+    "longitude":"-73.98"
+  },
+  "10010":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.74",
+    "longitude":"-73.98"
+  },
+  "10011":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.74",
+    "longitude":"-74"
+  },
+  "10012":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.73",
+    "longitude":"-74"
+  },
+  "10013":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.72",
+    "longitude":"-74"
+  },
+  "10014":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.73",
+    "longitude":"-74.01"
+  },
+  "10015":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74"
+  },
+  "10016":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10017":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.97"
+  },
+  "10018":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.99"
+  },
+  "10019":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.77",
+    "longitude":"-73.99"
+  },
+  "10020":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.98"
+  },
+  "10021":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.77",
+    "longitude":"-73.96"
+  },
+  "10022":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.97"
+  },
+  "10023":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.78",
+    "longitude":"-73.98"
+  },
+  "10024":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.8",
+    "longitude":"-73.97"
+  },
+  "10025":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.8",
+    "longitude":"-73.97"
+  },
+  "10026":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.8",
+    "longitude":"-73.95"
+  },
+  "10027":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.81",
+    "longitude":"-73.95"
+  },
+  "10028":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.78",
+    "longitude":"-73.95"
+  },
+  "10029":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.79",
+    "longitude":"-73.94"
+  },
+  "10030":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.82",
+    "longitude":"-73.94"
+  },
+  "10031":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.83",
+    "longitude":"-73.95"
+  },
+  "10032":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.84",
+    "longitude":"-73.94"
+  },
+  "10033":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.85",
+    "longitude":"-73.93"
+  },
+  "10034":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.87",
+    "longitude":"-73.92"
+  },
+  "10035":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.8",
+    "longitude":"-73.93"
+  },
+  "10036":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.99"
+  },
+  "10037":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.81",
+    "longitude":"-73.94"
+  },
+  "10038":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74"
+  },
+  "10039":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.83",
+    "longitude":"-73.94"
+  },
+  "10040":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.86",
+    "longitude":"-73.93"
+  },
+  "10041":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10044":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.95"
+  },
+  "10045":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10048":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.01"
+  },
+  "10055":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10060":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10065":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.96"
+  },
+  "10069":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.78",
+    "longitude":"-73.99"
+  },
+  "10075":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.77",
+    "longitude":"-73.95"
+  },
+  "10090":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10095":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10098":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.99"
+  },
+  "10099":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74"
+  },
+  "10103":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.98"
+  },
+  "10104":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10105":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10106":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10107":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10110":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10111":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.98"
+  },
+  "10112":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.98"
+  },
+  "10115":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.81",
+    "longitude":"-73.96"
+  },
+  "10118":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10119":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.99"
+  },
+  "10120":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10121":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10122":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10123":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10128":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.78",
+    "longitude":"-73.95"
+  },
+  "10151":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10152":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.97"
+  },
+  "10153":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.97"
+  },
+  "10154":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.97"
+  },
+  "10155":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10158":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10161":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10162":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.77",
+    "longitude":"-73.95"
+  },
+  "10165":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10166":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10167":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.97"
+  },
+  "10168":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10169":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10170":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10171":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.97"
+  },
+  "10172":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.97"
+  },
+  "10173":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10174":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-73.98"
+  },
+  "10175":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10176":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10177":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.76",
+    "longitude":"-73.98"
+  },
+  "10178":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10199":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.75",
+    "longitude":"-74"
+  },
+  "10260":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10265":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10270":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10271":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.01"
+  },
+  "10278":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.72",
+    "longitude":"-74"
+  },
+  "10279":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.01"
+  },
+  "10280":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-74.02"
+  },
+  "10281":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.71",
+    "longitude":"-73.99"
+  },
+  "10282":{
+    "primary_city":"New York",
+    "county":"New York County",
+    "latitude":"40.72",
+    "longitude":"-74.02"
+  },
+  "10301":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.63",
+    "longitude":"-74.09"
+  },
+  "10302":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.63",
+    "longitude":"-74.14"
+  },
+  "10303":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.63",
+    "longitude":"-74.17"
+  },
+  "10304":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.61",
+    "longitude":"-74.09"
+  },
+  "10305":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.6",
+    "longitude":"-74.07"
+  },
+  "10306":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.58",
+    "longitude":"-74.14"
+  },
+  "10307":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.51",
+    "longitude":"-74.24"
+  },
+  "10308":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.55",
+    "longitude":"-74.15"
+  },
+  "10309":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.53",
+    "longitude":"-74.22"
+  },
+  "10310":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.63",
+    "longitude":"-74.12"
+  },
+  "10311":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.61",
+    "longitude":"-74.18"
+  },
+  "10312":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.55",
+    "longitude":"-74.18"
+  },
+  "10314":{
+    "primary_city":"Staten Island",
+    "county":"Richmond County",
+    "latitude":"40.6",
+    "longitude":"-74.17"
+  },
+  "10451":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.82",
+    "longitude":"-73.93"
+  },
+  "10452":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.84",
+    "longitude":"-73.92"
+  },
+  "10453":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.85",
+    "longitude":"-73.91"
+  },
+  "10454":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.81",
+    "longitude":"-73.92"
+  },
+  "10455":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.81",
+    "longitude":"-73.91"
+  },
+  "10456":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.83",
+    "longitude":"-73.91"
+  },
+  "10457":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.85",
+    "longitude":"-73.9"
+  },
+  "10458":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.86",
+    "longitude":"-73.89"
+  },
+  "10459":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.83",
+    "longitude":"-73.89"
+  },
+  "10460":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.84",
+    "longitude":"-73.87"
+  },
+  "10461":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.85",
+    "longitude":"-73.84"
+  },
+  "10462":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.84",
+    "longitude":"-73.86"
+  },
+  "10463":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.88",
+    "longitude":"-73.91"
+  },
+  "10464":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.87",
+    "longitude":"-73.8"
+  },
+  "10465":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.82",
+    "longitude":"-73.83"
+  },
+  "10466":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.89",
+    "longitude":"-73.85"
+  },
+  "10467":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.87",
+    "longitude":"-73.87"
+  },
+  "10468":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.87",
+    "longitude":"-73.9"
+  },
+  "10469":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.87",
+    "longitude":"-73.85"
+  },
+  "10470":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.89",
+    "longitude":"-73.87"
+  },
+  "10471":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.9",
+    "longitude":"-73.9"
+  },
+  "10472":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.83",
+    "longitude":"-73.87"
+  },
+  "10473":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.82",
+    "longitude":"-73.86"
+  },
+  "10474":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.81",
+    "longitude":"-73.88"
+  },
+  "10475":{
+    "primary_city":"Bronx",
+    "county":"Bronx County",
+    "latitude":"40.88",
+    "longitude":"-73.82"
+  },
+  "11004":{
+    "primary_city":"Glen Oaks",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.71"
+  },
+  "11005":{
+    "primary_city":"Floral Park",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.71"
+  },
+  "11101":{
+    "primary_city":"Long Island City",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.93"
+  },
+  "11102":{
+    "primary_city":"Astoria",
+    "county":"Queens County",
+    "latitude":"40.77",
+    "longitude":"-73.93"
+  },
+  "11103":{
+    "primary_city":"Astoria",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.91"
+  },
+  "11104":{
+    "primary_city":"Sunnyside",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.92"
+  },
+  "11105":{
+    "primary_city":"Astoria",
+    "county":"Queens County",
+    "latitude":"40.78",
+    "longitude":"-73.91"
+  },
+  "11106":{
+    "primary_city":"Astoria",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.93"
+  },
+  "11109":{
+    "primary_city":"Long Island City",
+    "county":"Queens County",
+    "latitude":"40.75",
+    "longitude":"-73.96"
+  },
+  "11201":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.69",
+    "longitude":"-73.99"
+  },
+  "11203":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11204":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.62",
+    "longitude":"-73.98"
+  },
+  "11205":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.69",
+    "longitude":"-73.97"
+  },
+  "11206":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.7",
+    "longitude":"-73.94"
+  },
+  "11207":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.67",
+    "longitude":"-73.89"
+  },
+  "11208":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.67",
+    "longitude":"-73.87"
+  },
+  "11209":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.62",
+    "longitude":"-74.03"
+  },
+  "11210":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.63",
+    "longitude":"-73.95"
+  },
+  "11211":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.71",
+    "longitude":"-73.95"
+  },
+  "11212":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.66",
+    "longitude":"-73.91"
+  },
+  "11213":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.67",
+    "longitude":"-73.94"
+  },
+  "11214":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.6",
+    "longitude":"-74"
+  },
+  "11215":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.66",
+    "longitude":"-73.99"
+  },
+  "11216":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.68",
+    "longitude":"-73.95"
+  },
+  "11217":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.68",
+    "longitude":"-73.98"
+  },
+  "11218":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.98"
+  },
+  "11219":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.63",
+    "longitude":"-74"
+  },
+  "11220":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-74.02"
+  },
+  "11221":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.69",
+    "longitude":"-73.93"
+  },
+  "11222":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.73",
+    "longitude":"-73.95"
+  },
+  "11223":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.6",
+    "longitude":"-73.97"
+  },
+  "11224":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.58",
+    "longitude":"-73.99"
+  },
+  "11225":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.66",
+    "longitude":"-73.95"
+  },
+  "11226":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.65",
+    "longitude":"-73.96"
+  },
+  "11228":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.62",
+    "longitude":"-74.01"
+  },
+  "11229":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.6",
+    "longitude":"-73.94"
+  },
+  "11230":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.62",
+    "longitude":"-73.97"
+  },
+  "11231":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.68",
+    "longitude":"-74.01"
+  },
+  "11232":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.66",
+    "longitude":"-74.01"
+  },
+  "11233":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.68",
+    "longitude":"-73.92"
+  },
+  "11234":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.61",
+    "longitude":"-73.91"
+  },
+  "11235":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.58",
+    "longitude":"-73.95"
+  },
+  "11236":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.9"
+  },
+  "11237":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.7",
+    "longitude":"-73.92"
+  },
+  "11238":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.68",
+    "longitude":"-73.96"
+  },
+  "11239":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.65",
+    "longitude":"-73.88"
+  },
+  "11240":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.69",
+    "longitude":"-73.98"
+  },
+  "11241":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11242":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11243":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11249":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11252":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11256":{
+    "primary_city":"Brooklyn",
+    "county":"Kings County",
+    "latitude":"40.64",
+    "longitude":"-73.94"
+  },
+  "11351":{
+    "primary_city":"Flushing",
+    "county":"Queens County",
+    "latitude":"40.78",
+    "longitude":"-73.83"
+  },
+  "11354":{
+    "primary_city":"Flushing",
+    "county":"Queens County",
+    "latitude":"40.77",
+    "longitude":"-73.84"
+  },
+  "11355":{
+    "primary_city":"Flushing",
+    "county":"Queens County",
+    "latitude":"40.75",
+    "longitude":"-73.82"
+  },
+  "11356":{
+    "primary_city":"College Point",
+    "county":"Queens County",
+    "latitude":"40.78",
+    "longitude":"-73.84"
+  },
+  "11357":{
+    "primary_city":"Whitestone",
+    "county":"Queens County",
+    "latitude":"40.79",
+    "longitude":"-73.81"
+  },
+  "11358":{
+    "primary_city":"Flushing",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.8"
+  },
+  "11359":{
+    "primary_city":"Bayside",
+    "county":"Queens County",
+    "latitude":"40.79",
+    "longitude":"-73.78"
+  },
+  "11360":{
+    "primary_city":"Bayside",
+    "county":"Queens County",
+    "latitude":"40.78",
+    "longitude":"-73.78"
+  },
+  "11361":{
+    "primary_city":"Bayside",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.77"
+  },
+  "11362":{
+    "primary_city":"Little Neck",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.74"
+  },
+  "11363":{
+    "primary_city":"Little Neck",
+    "county":"Queens County",
+    "latitude":"40.77",
+    "longitude":"-73.75"
+  },
+  "11364":{
+    "primary_city":"Oakland Gardens",
+    "county":"Queens County",
+    "latitude":"40.75",
+    "longitude":"-73.76"
+  },
+  "11365":{
+    "primary_city":"Fresh Meadows",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.79"
+  },
+  "11366":{
+    "primary_city":"Fresh Meadows",
+    "county":"Queens County",
+    "latitude":"40.73",
+    "longitude":"-73.79"
+  },
+  "11367":{
+    "primary_city":"Flushing",
+    "county":"Queens County",
+    "latitude":"40.73",
+    "longitude":"-73.83"
+  },
+  "11368":{
+    "primary_city":"Corona",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.85"
+  },
+  "11369":{
+    "primary_city":"East Elmhurst",
+    "county":"Queens County",
+    "latitude":"40.76",
+    "longitude":"-73.88"
+  },
+  "11370":{
+    "primary_city":"East Elmhurst",
+    "county":"Queens County",
+    "latitude":"40.77",
+    "longitude":"-73.89"
+  },
+  "11371":{
+    "primary_city":"Flushing",
+    "county":"Queens County",
+    "latitude":"40.77",
+    "longitude":"-73.87"
+  },
+  "11372":{
+    "primary_city":"Jackson Heights",
+    "county":"Queens County",
+    "latitude":"40.75",
+    "longitude":"-73.88"
+  },
+  "11373":{
+    "primary_city":"Elmhurst",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.88"
+  },
+  "11374":{
+    "primary_city":"Rego Park",
+    "county":"Queens County",
+    "latitude":"40.72",
+    "longitude":"-73.86"
+  },
+  "11375":{
+    "primary_city":"Forest Hills",
+    "county":"Queens County",
+    "latitude":"40.72",
+    "longitude":"-73.84"
+  },
+  "11377":{
+    "primary_city":"Woodside",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.9"
+  },
+  "11378":{
+    "primary_city":"Maspeth",
+    "county":"Queens County",
+    "latitude":"40.72",
+    "longitude":"-73.9"
+  },
+  "11379":{
+    "primary_city":"Middle Village",
+    "county":"Queens County",
+    "latitude":"40.71",
+    "longitude":"-73.88"
+  },
+  "11385":{
+    "primary_city":"Ridgewood",
+    "county":"Queens County",
+    "latitude":"40.7",
+    "longitude":"-73.89"
+  },
+  "11411":{
+    "primary_city":"Cambria Heights",
+    "county":"Queens County",
+    "latitude":"40.69",
+    "longitude":"-73.73"
+  },
+  "11412":{
+    "primary_city":"Saint Albans",
+    "county":"Queens County",
+    "latitude":"40.69",
+    "longitude":"-73.75"
+  },
+  "11413":{
+    "primary_city":"Springfield Gardens",
+    "county":"Queens County",
+    "latitude":"40.66",
+    "longitude":"-73.75"
+  },
+  "11414":{
+    "primary_city":"Howard Beach",
+    "county":"Queens County",
+    "latitude":"40.66",
+    "longitude":"-73.84"
+  },
+  "11415":{
+    "primary_city":"Kew Gardens",
+    "county":"Queens County",
+    "latitude":"40.71",
+    "longitude":"-73.83"
+  },
+  "11416":{
+    "primary_city":"Ozone Park",
+    "county":"Queens County",
+    "latitude":"40.68",
+    "longitude":"-73.85"
+  },
+  "11417":{
+    "primary_city":"Ozone Park",
+    "county":"Queens County",
+    "latitude":"40.68",
+    "longitude":"-73.84"
+  },
+  "11418":{
+    "primary_city":"Richmond Hill",
+    "county":"Queens County",
+    "latitude":"40.7",
+    "longitude":"-73.84"
+  },
+  "11419":{
+    "primary_city":"South Richmond Hill",
+    "county":"Queens County",
+    "latitude":"40.69",
+    "longitude":"-73.82"
+  },
+  "11420":{
+    "primary_city":"South Ozone Park",
+    "county":"Queens County",
+    "latitude":"40.67",
+    "longitude":"-73.81"
+  },
+  "11421":{
+    "primary_city":"Woodhaven",
+    "county":"Queens County",
+    "latitude":"40.69",
+    "longitude":"-73.85"
+  },
+  "11422":{
+    "primary_city":"Rosedale",
+    "county":"Queens County",
+    "latitude":"40.66",
+    "longitude":"-73.73"
+  },
+  "11423":{
+    "primary_city":"Hollis",
+    "county":"Queens County",
+    "latitude":"40.71",
+    "longitude":"-73.76"
+  },
+  "11426":{
+    "primary_city":"Bellerose",
+    "county":"Queens County",
+    "latitude":"40.74",
+    "longitude":"-73.72"
+  },
+  "11427":{
+    "primary_city":"Queens Village",
+    "county":"Queens County",
+    "latitude":"40.73",
+    "longitude":"-73.75"
+  },
+  "11428":{
+    "primary_city":"Queens Village",
+    "county":"Queens County",
+    "latitude":"40.72",
+    "longitude":"-73.74"
+  },
+  "11429":{
+    "primary_city":"Queens Village",
+    "county":"Queens County",
+    "latitude":"40.71",
+    "longitude":"-73.74"
+  },
+  "11430":{
+    "primary_city":"Jamaica",
+    "county":"Queens County",
+    "latitude":"40.65",
+    "longitude":"-73.79"
+  },
+  "11432":{
+    "primary_city":"Jamaica",
+    "county":"Queens County",
+    "latitude":"40.72",
+    "longitude":"-73.79"
+  },
+  "11433":{
+    "primary_city":"Jamaica",
+    "county":"Queens County",
+    "latitude":"40.7",
+    "longitude":"-73.79"
+  },
+  "11434":{
+    "primary_city":"Jamaica",
+    "county":"Queens County",
+    "latitude":"40.68",
+    "longitude":"-73.78"
+  },
+  "11435":{
+    "primary_city":"Jamaica",
+    "county":"Queens County",
+    "latitude":"40.7",
+    "longitude":"-73.81"
+  },
+  "11436":{
+    "primary_city":"Jamaica",
+    "county":"Queens County",
+    "latitude":"40.68",
+    "longitude":"-73.8"
+  },
+  "11691":{
+    "primary_city":"Far Rockaway",
+    "county":"Queens County",
+    "latitude":"40.6",
+    "longitude":"-73.76"
+  },
+  "11692":{
+    "primary_city":"Arverne",
+    "county":"Queens County",
+    "latitude":"40.59",
+    "longitude":"-73.79"
+  },
+  "11693":{
+    "primary_city":"Far Rockaway",
+    "county":"Queens County",
+    "latitude":"40.59",
+    "longitude":"-73.81"
+  },
+  "11694":{
+    "primary_city":"Rockaway Park",
+    "county":"Queens County",
+    "latitude":"40.58",
+    "longitude":"-73.84"
+  },
+  "11697":{
+    "primary_city":"Breezy Point",
+    "county":"Queens County",
+    "latitude":"40.56",
+    "longitude":"-73.91"
+  }
+}
